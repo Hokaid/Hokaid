@@ -25,6 +25,4 @@ Feel free to reach out—let's collaborate and create something awesome!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/geralcastillo)  
 
 ---
-
-## 📊 GitHub Stats  
 ![Hokaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hokaid&show_icons=true&theme=radical)  
