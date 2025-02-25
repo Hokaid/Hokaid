@@ -22,7 +22,7 @@ I'm a **Software Engineer** passionate about crafting modern web applications. I
 Feel free to reach out—let's collaborate and create something awesome!  
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/hokaitt)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/geralcastillo)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/geralcastillo)  
 
 ---
 
