@@ -3,7 +3,7 @@
 I'm a **Software Engineer** passionate about crafting modern web applications. I enjoy working with **JavaScript, TypeScript, React, and Node.js**, and I'm always eager to explore new technologies. Whether it's frontend, backend, or blockchain development, I'm all in for building innovative solutions.  
 
 ## 🚀 About Me  
-- 💼 Currently working at **[Devsu](https://devsu.com/)**  
+- 💼 Currently working at **[BairesDev](https://bairesdev.com/)**  
 - 🛠️ Focused on **React, TypeScript, and Node.js**  
 - 🌍 Exploring **Web3, Blockchain, and Decentralized Apps**  
 - 🔥 Always learning and improving my skills  
