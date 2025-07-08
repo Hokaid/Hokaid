@@ -1,4 +1,4 @@
-# Hey there, I'm Hokaid 👋  
+# Hey there, I'm Geral Castillo 👋  
 
 I'm a **Software Engineer** passionate about crafting modern web applications. I enjoy working with **JavaScript, TypeScript, React, and Node.js**, and I'm always eager to explore new technologies. Whether it's frontend, backend, or blockchain development, I'm all in for building innovative solutions.  
 
